@@ -1,7 +1,10 @@
 # .bashrc
 
 ## PS1 Easily Modified
-<img width="250" src="/src/screenshot_1.jpg"/> <img width="250" src="/src/screenshot_0.jpg"/>
+<img width="350" src="/src/screenshot_1.jpg"/>
+
+## Result
+<img width="250" src="/src/screenshot_0.jpg"/>
 
 
 
