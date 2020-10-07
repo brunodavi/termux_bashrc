@@ -78,7 +78,7 @@ c9="\[\033[96m\]"
 w9="\[\033[97m\]"
 
 
-export PS1="$r9termux@\s$n[$b9\W$n]$ "
+export PS1="$r9termux@\s:$n[$b9\W$n]$ "
 
 
 
