@@ -78,7 +78,10 @@ c9="\[\033[96m\]"
 w9="\[\033[97m\]"
 
 
-export PS1="$r9termux@\s:$n[$b9\W$n]$ "
+# Prompt
+export PS1=$r9"termux@\s"$n":"$b9"[\W]"$n"\$ "
 
+# Functions/Aliases
 
-
+alias upsrc='source ~/.bashrc'
+alias edsrc='nano ~/.bashrc'
